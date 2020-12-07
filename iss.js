@@ -43,7 +43,6 @@ const fetchMyIP = function(callback) {
 
 // our next function fetchCoordsByIP will be one that takes in an IP address and returns the latitude and longitude for it.
 /*
-
   - Define the fetchCoordsByIP function in iss.js.
   - It should take in two arguments, ip(string) and callback.
   - Add it to the object properties being exported from iss.js.
